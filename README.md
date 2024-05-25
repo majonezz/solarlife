@@ -53,5 +53,7 @@ Registered notify handler!
 {"PV_rated_voltage":50,"PV_rated_current":10,"PV_rated_power_l":130,"PV_rated_power_h":0,"battery_rated_voltage":17,"battery_rated_current":10,"battery_rated_power_l":130,"battery_rated_power_h":0,"load_rated_voltage":17,"load_rated_current":10,"load_rated_power_l":130,"load_rated_power_h":0,"slave_id":1,"running_days":6,"sys_voltage":12,"battery_status":3,"charge_status":32,"discharge_status":0,"env_temperature":13,"sys_temperature":6,"undervoltage_times":255,"fullycharged_times":1,"overvoltage_prot_times":0,"overcurrent_prot_times":0,"shortcircuit_prot_times":0,"opencircuit_prot_times":0,"hw_prot_times":0,"charge_overtemp_prot_times":0,"discharge_overtemp_prot_times":0,"battery_remaining_capacity":16,"battery_voltage":11.13,"battery_current":0,"battery_power_lo":0,"battery_power_hi":0,"load_voltage":0,"load_current":0,"load_power_l":0,"load_power_h":0,"solar_voltage":0.2,"solar_current":0,"solar_power_l":0,"solar_power_h":0,"daily_production":0.01,"total_production_l":0.82,"total_production_h":0,"daily_consumption":0.02,"total_consumption_l":0.83,"total_consumption_h":0,"lighttime_daily":695,"monthly_production_l":0,"monthly_production_h":0,"yearly_production_l":0,"yearly_production_h":0,"timestamp":"2023-10-20T19:15:58Z"}
 MQTT server acknowledged data
 ```
+Data presented by openHAB app:
+<br><img src="https://raw.githubusercontent.com/majonezz/solarlife/main/Solarlife_OH1.jpg" width="300"><img src="https://raw.githubusercontent.com/majonezz/solarlife/main/Solarlife_OH2.jpg" width="300"><br>
 Compilation:
 - make
